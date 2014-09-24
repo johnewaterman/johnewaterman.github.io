@@ -1,0 +1,7 @@
+$fartface: #333
+
+.logo
+	position: bla;
+	height: 43px;
+  color: $fartface
+  border-radius: 50%;

@@ -200,3 +200,7 @@ input:focus, textarea:focus {
 .thanks {
 	font-size: 24px;
 }
+
+.video {
+	border-radius: 50%;
+}

@@ -1,7 +1,6 @@
 body {
 	/*background: #F5F5F5;*/
 	font-family: 'Montserrat', sans-serif;
-
 }
 
 .content {
@@ -14,10 +13,12 @@ body {
 
 h1 {
 	font-size: 18px;
+	color:#fff;
 }
 
 h2 {
 	font-size: 19px;
+	color:#fff;
 }
 
 /* -- Begin Form Styles -- */
